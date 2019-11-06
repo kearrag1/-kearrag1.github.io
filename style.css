@@ -1,0 +1,31 @@
+h1{
+  color:pink;
+  font-family:arial;
+  border: 20px solid orange;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding:50px;
+}
+
+p{
+  color:red;
+  font-family:arial;
+  background-color: yellow;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding:50px;
+  align-content: center;
+}
+
+body{
+  background-color:green;
+}
+
+img {
+  border: 20px solid pink;
+  width: 50%;
+  height: 50%;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding:50px;
+}
