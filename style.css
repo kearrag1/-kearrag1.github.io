@@ -3,6 +3,10 @@ html {
   align-content: center;
 }
 
+* {
+    margin-top: 0;
+}
+
   a:link {
   color: brown;
 }
@@ -27,24 +31,63 @@ color: green;
 font-size: 50px;
 }
 
---h1{
-  color:pink;
-  font-family:arial;
-  border: 20px solid orange;
-  margin-left: 100px;
-  margin-right: 100px;
+h1{
+  color: white;
+  font-family: "Gist";
+  -border: 20px solid orange;
+  margin-left: 200px;
+  margin-right: 200px;
   padding:50px;
+  font-size: 1000px
+}
+
+h2{
+  color: white;
+  font-family: "Gist";
+  -border: 20px solid orange;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:50px;
+  font-size: 250px;
+  background-color: none;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-family: "Gist";
+  text-decoration-style: wavy;
+  -border: 20px solid orange;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:0px;
+  font-size: 20px;
+  background-color: none;
+  text-align: left;
+}
+
+h4{
+  color: white;
+  font-family: "Times";
+  text-decoration-style: wavy;
+  -border: 20px solid orange;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:0px;
+  font-size: 19px;
+  background-color: none;
+  text-align: left;
 }
 
 p{
 color: white;
   font-family:"Gist";
-  -background-color: none;
+  background-color: none;
   margin-left: 200px;
   margin-right: 200px;
   padding:50px;
-  align-content: left;
-  font-size: 100px;
+  text-align: center;
+  font-size: 200px;
 }
 
 body{
